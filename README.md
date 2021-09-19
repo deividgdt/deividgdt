@@ -4,7 +4,7 @@
 
 I'm David.
 
-- 🌱 I’m currently studying computer engineering 
+- 🌱 I’m currently studying Computer Science and Engineering 
 - 💬 Ask me about Linux, Raspberry, Pihole, Centreon, Nagios, Cybersecurity
 - 📫 How to reach me: https://info.deividsdocs.com
 ----
